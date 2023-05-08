@@ -1,0 +1,1 @@
+const array =  [1, 50 , 900 , 900]; const MaiorValor = Math.max (...array); console.log(MaiorValor);
